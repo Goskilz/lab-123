@@ -1,0 +1,13 @@
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\bin\Debug\netcoreapp3.1\Test'овый.exe
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\bin\Debug\netcoreapp3.1\Test'овый.deps.json
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\bin\Debug\netcoreapp3.1\Test'овый.runtimeconfig.json
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\bin\Debug\netcoreapp3.1\Test'овый.runtimeconfig.dev.json
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\bin\Debug\netcoreapp3.1\Test'овый.dll
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\bin\Debug\netcoreapp3.1\Test'овый.pdb
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.csprojAssemblyReference.cache
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.AssemblyInfoInputs.cache
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.AssemblyInfo.cs
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.csproj.CoreCompileInputs.cache
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.dll
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.pdb
+C:\Users\iell\source\repos\Лабораторные работы\Test'овый\obj\Debug\netcoreapp3.1\Test'овый.genruntimeconfig.cache
